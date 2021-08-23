@@ -536,15 +536,15 @@ header.horizontal::after {
 }
 
 header.horizontal.header-home {
-  padding-bottom: 180px;
+  padding-bottom: 100px;
 }
 
 header.horizontal.header-home .container::after {
-  height: 180px;
+  height: 100px;
 }
 
 header.horizontal.header-home .container [class^='col-'].col-header-img {
-  height: 605px;
+  height: 505px;
 }
 
 header.solid {
